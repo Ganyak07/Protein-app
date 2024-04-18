@@ -1,6 +1,4 @@
-Here's a more comprehensive README file for your project:
 
----
 
 # Drug Target Identification
 
@@ -21,7 +19,7 @@ pip install -r requirements.txt
 ## Usage
 1. **Run the Application**: Execute the Streamlit application by running the following command:
    ```
-   streamlit run app.py
+   streamlit run protein.py
    ```
 2. **Retrieve Protein Sequence**: Enter the gene or protein name in the input field and click "Retrieve Sequence" to fetch the protein sequence.
 3. **Visualize Protein Domains**: Input the protein sequence and click "Visualize Protein Domains" to see an interactive plot displaying protein domains.
